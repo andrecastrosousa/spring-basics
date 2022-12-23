@@ -1,4 +1,4 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps.scope;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.scope;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;

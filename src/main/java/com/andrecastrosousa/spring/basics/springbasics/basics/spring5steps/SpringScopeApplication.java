@@ -1,9 +1,8 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps;
 
-import com.andrecastrosousa.spring.basics.springbasics.spring5steps.scope.PersonDAO;
+import com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.scope.PersonDAO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

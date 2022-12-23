@@ -1,4 +1,4 @@
-package com.andrecastrosousa.spring.basics.springbasics.componentscan;
+package com.andrecastrosousa.spring.basics.springbasics.basics.componentscan;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;

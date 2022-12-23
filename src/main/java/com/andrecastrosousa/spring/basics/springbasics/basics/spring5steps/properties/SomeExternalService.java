@@ -1,4 +1,4 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps.properties;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.properties;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

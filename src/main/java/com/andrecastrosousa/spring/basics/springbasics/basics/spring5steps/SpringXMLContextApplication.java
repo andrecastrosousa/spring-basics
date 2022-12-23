@@ -1,6 +1,6 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps;
 
-import com.andrecastrosousa.spring.basics.springbasics.spring5steps.xml.XmlPersonDAO;
+import com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.xml.XmlPersonDAO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

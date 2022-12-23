@@ -1,4 +1,4 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps.cdi;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.cdi;
 
 import javax.inject.Inject;
 import javax.inject.Named;

@@ -1,7 +1,6 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps.basic;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.basic;
 
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 @Service

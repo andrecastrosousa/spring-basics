@@ -1,6 +1,6 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps;
 
-import com.andrecastrosousa.spring.basics.springbasics.spring5steps.basic.BinarySearchImpl;
+import com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.basic.BinarySearchImpl;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

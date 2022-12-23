@@ -12,13 +12,13 @@
 
     <bean
             id="xmlJdbcConnection"
-            class="com.andrecastrosousa.spring.basics.springbasics.spring5steps.xml.XmlJdbcConnection"
+            class="com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.xml.XmlJdbcConnection"
     >
     </bean>
 
     <bean
             id="xmlPersonDAO"
-            class="com.andrecastrosousa.spring.basics.springbasics.spring5steps.xml.XmlPersonDAO"
+            class="com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.xml.XmlPersonDAO"
     >
         <property name="xmlJdbcConnection" ref="xmlJdbcConnection"/>
     </bean>

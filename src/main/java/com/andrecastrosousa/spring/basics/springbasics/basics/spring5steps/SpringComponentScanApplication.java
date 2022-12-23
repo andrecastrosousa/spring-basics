@@ -1,6 +1,6 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps;
 
-import com.andrecastrosousa.spring.basics.springbasics.componentscan.ComponentDAO;
+import com.andrecastrosousa.spring.basics.springbasics.basics.componentscan.ComponentDAO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

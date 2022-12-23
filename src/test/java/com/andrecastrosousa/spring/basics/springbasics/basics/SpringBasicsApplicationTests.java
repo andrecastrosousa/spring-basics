@@ -1,4 +1,4 @@
-package com.andrecastrosousa.spring.basics.springbasics;
+package com.andrecastrosousa.spring.basics.springbasics.basics;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

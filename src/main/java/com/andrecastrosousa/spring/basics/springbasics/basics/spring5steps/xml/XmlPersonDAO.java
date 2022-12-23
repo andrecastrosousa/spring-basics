@@ -1,4 +1,4 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps.xml;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.xml;
 
 public class XmlPersonDAO {
     XmlJdbcConnection xmlJdbcConnection;

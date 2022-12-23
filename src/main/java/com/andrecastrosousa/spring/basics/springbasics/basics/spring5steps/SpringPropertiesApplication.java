@@ -1,7 +1,7 @@
-package com.andrecastrosousa.spring.basics.springbasics.spring5steps;
+package com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps;
 
 
-import com.andrecastrosousa.spring.basics.springbasics.spring5steps.properties.SomeExternalService;
+import com.andrecastrosousa.spring.basics.springbasics.basics.spring5steps.properties.SomeExternalService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
